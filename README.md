@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋,
+## I'm Marek, Bachelor's student at VUT FIT.
 <!--
 **marekjoukl/marekjoukl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

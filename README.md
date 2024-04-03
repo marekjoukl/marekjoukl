@@ -10,6 +10,7 @@
 [<img src="https://skillicons.dev/icons?i=c" style="width:35px;height:35px;">]()
 [<img src="https://skillicons.dev/icons?i=cpp" style="width:35px;height:35px;">]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=cs" style="width:35px;height:35px;">]()
+[<img src="https://skillicons.dev/icons?i=dotnet" style="width:35px;height:35px;">]()
 [<img src="https://skillicons.dev/icons?i=python" style="width:35px;height:35px;">]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=figma" style="width:35px;height:35px;">]()
 

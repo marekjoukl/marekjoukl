@@ -1,5 +1,18 @@
 ## Hi there 👋,
 ### I'm Marek, Bachelor's student at VUT FIT.
+
+##### Skills
+
+[<img src="https://skillicons.dev/icons?i=html" style="width:35px;height:35px;">]()
+[<img src="https://skillicons.dev/icons?i=css" style="width:35px;height:35px;">]()
+[<img src="https://skillicons.dev/icons?i=js" style="width:35px;height:35px;">]()
+[<img src="https://skillicons.dev/icons?i=react" style="width:35px;height:35px;">]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=c" style="width:35px;height:35px;">]()
+[<img src="https://skillicons.dev/icons?i=cpp" style="width:35px;height:35px;">]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=cs" style="width:35px;height:35px;">]()
+[<img src="https://skillicons.dev/icons?i=python" style="width:35px;height:35px;">]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=figma" style="width:35px;height:35px;">]()
+
 <!--
 **marekjoukl/marekjoukl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ## Hi there 👋,
-### I'm Marek, Bachelor's student at VUT FIT. Check out my web [HERE](https://marekjoukl.github.io/)
+### I'm Marek, Bachelor's student at VUT FIT. Check out my web [HERE](https://marekjoukl.github.io/) 👈 .
 
 ##### Skills
 

@@ -1,30 +1,39 @@
-## Hi there 👋,
-### I'm Marek, Bachelor's student at VUT FIT. Check out my web [HERE](https://marekjoukl.github.io/) 👈 .
+## Hi there 👋  
+### I'm Marek, a Bachelor's student at VUT FIT and an aspiring **React Frontend Developer**.  
+Check out my personal site [HERE](https://marekjoukl.github.io/) 👈
 
-##### Skills
+---
 
-[<img src="https://skillicons.dev/icons?i=html" style="width:35px;height:35px;">]()
-[<img src="https://skillicons.dev/icons?i=css" style="width:35px;height:35px;">]()
-[<img src="https://skillicons.dev/icons?i=js" style="width:35px;height:35px;">]()
-[<img src="https://skillicons.dev/icons?i=react" style="width:35px;height:35px;">]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=c" style="width:35px;height:35px;">]()
-[<img src="https://skillicons.dev/icons?i=cpp" style="width:35px;height:35px;">]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=cs" style="width:35px;height:35px;">]()
-[<img src="https://skillicons.dev/icons?i=dotnet" style="width:35px;height:35px;">]()
-[<img src="https://skillicons.dev/icons?i=python" style="width:35px;height:35px;">]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=figma" style="width:35px;height:35px;">]()
+#### 💻 Frontend Technologies
+[<img src="https://skillicons.dev/icons?i=html" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=css" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=js" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=ts" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=react" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=redux" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=tailwind" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=styledcomponents" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=vite" style="width:35px;height:35px;">]()&nbsp;&nbsp;
 
-<!--
-**marekjoukl/marekjoukl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 🧠 Backend & APIs
+[<img src="https://skillicons.dev/icons?i=nodejs" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=express" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=graphql" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=apollo" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=supabase" style="width:35px;height:35px;">]()&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🗄️ Databases & ORM
+[<img src="https://skillicons.dev/icons?i=mysql" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=prisma" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+
+---
+
+#### 🧰 Other Tools
+[<img src="https://skillicons.dev/icons?i=figma" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=vercel" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=git" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=python" style="width:35px;height:35px;">]()&nbsp;&nbsp;

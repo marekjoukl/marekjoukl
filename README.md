@@ -20,6 +20,8 @@ Check out my personal site [HERE](https://marekjoukl.github.io/) 👈
 #### 🧠 Backend & APIs
 [<img src="https://skillicons.dev/icons?i=nodejs" style="width:35px;height:35px;">]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=express" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=cs" style="width:35px;height:35px;">]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=dotnet" style="width:35px;height:35px;">]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=graphql" style="width:35px;height:35px;">]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=apollo" style="width:35px;height:35px;">]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=supabase" style="width:35px;height:35px;">]()&nbsp;&nbsp;

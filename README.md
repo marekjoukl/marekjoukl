@@ -1,5 +1,5 @@
 ## Hi there 👋  
-### I'm Marek, a Bachelor's student at VUT FIT and an aspiring **React Frontend Developer**.  
+### I'm Marek, a Masters's student at IT University of Copenhagen and an aspiring **React Frontend Developer**.  
 Check out my personal site [HERE](https://marekjoukl.github.io/) 👈
 
 ---
